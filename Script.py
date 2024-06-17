@@ -17,7 +17,7 @@ class script(object):
 
 🌼 sɪᴢᴇ : {file_size}
 
-Jᴏɪɴ [Sɪɴʜᴀʟᴀ Cᴀʀᴛᴏᴏɴꜱ LK](https://t.me/SinhalaCartoons_LK)</b>""" 
+🔗 Jᴏɪɴ : [Sɪɴʜᴀʟᴀ Cᴀʀᴛᴏᴏɴꜱ LK](https://t.me/SinhalaCartoons_LK)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -53,9 +53,9 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/DiniduSilva>Pʀɪᴍᴇ සිල්වා</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/SinhalaCartoonsLK_Chat>Sinhala Cartoons LK Chat</a>
+☘️ ɢʀᴏᴜᴘ: <a href=https://t.me/SinhalaCartoonsLK_Chat>Sinhala Cartoons LK Chat</a>
 
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/SinhalaCartoons_LK>Sinhala Cartoons LK</a></b>
+🌼 ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/SinhalaCartoons_LK>Sinhala Cartoons LK</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
