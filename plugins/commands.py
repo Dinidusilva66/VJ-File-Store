@@ -60,7 +60,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('🌼 ɢʀᴏᴜᴘ', url='https://t.me/SinhalaCartoonsSLLK_Chat'),
+            InlineKeyboardButton('🌼 ɢʀᴏᴜᴘ', url='https://t.me/SinhalaCartoonsLK_Chat'),
             InlineKeyboardButton('☘️ ᴄʜᴀɴɴᴇʟ', url='https://t.me/SinhalaCartoons_LK')
             ],[
             InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
